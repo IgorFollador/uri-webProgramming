@@ -1,0 +1,3 @@
+[submodule "uri-laraflix"]
+	path = uri-laraflix
+	url = https://github.com/IgorFollador/uri-laraflix
